@@ -4,7 +4,7 @@ Apaixonada por tecnologia e pela criação de aplicações que facilitam e incre
 
 <h3> Algumas das tecnologias que gosto de trabalhar: </h3>
 
-###### 💻 Node.js
+###### 💻 JavaScript
 ###### ⚛️ React.js
 ###### :iphone: React Native
 
