@@ -17,6 +17,6 @@ Atualmente sou estudante do curso de Sistemas de Informação.
  <a href="https://www.instagram.com/larah.brandao/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=Instagram&logoColor=FF0000&link=https://www.instagram.com/larah.brandao"/>
  </a>
- <a href="mailto:dev.larahbrandao@gmail.com/" alt="Gmail">
+ <a href="mailto:dev.larahbrandao@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=FF0000&link=mailto:dev.larahbrandao@gmail.com"/>
  </a>
