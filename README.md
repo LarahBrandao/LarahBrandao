@@ -2,6 +2,8 @@
 
 Sou uma desenvolvedora apaixonada por tecnologia e pela criação de aplicações que facilitam e incrementam o nosso cotidiano.
 
+Atualmente sou estudante do curso de Sistemas de Informação.
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
